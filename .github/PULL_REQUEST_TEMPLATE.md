@@ -1,7 +1,0 @@
-- [ ] Does this code make assumptions about the order of any user actions or network messages?
-- [ ] What might happen in this code if thousands of users were active at once?
-- [ ] If this code makes network requests, what happens when they inevitably fail?
-- [ ] Is there any data handled by this code that has no enforced maximum size?
-- [ ] Does it make sense to add an automated test?
-- [ ] What happens if a trial user encounters this code? A limited user? A view-only user?
-- [ ] Does this code handle or introduce user-provided data? If so, is it properly sanitized?
